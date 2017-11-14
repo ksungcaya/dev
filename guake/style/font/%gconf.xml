@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="style" mtime="1508928557" type="string">
+		<stringvalue>Source Code Pro 10</stringvalue>
+	</entry>
+	<entry name="palette_name" mtime="1508928823" type="string">
+		<stringvalue>Custom</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1508928823" type="string">
+		<stringvalue>#222222222222:#b75b5d495d49:#468995556def:#f0f0dfdfafaf:#505060607070:#dcdc8c8cc3c3:#8c8cd0d0d3d3:#dcdcdcdccccc:#707090908080:#dcdca3a3a3a3:#6060b4b48a8a:#e0e0cfcf9f9f:#9494bfbff3f3:#ecec9393d3d3:#9393e0e0e3e3:#ffffffffffff:#dcdcdcdccccc:#222222222222</stringvalue>
+	</entry>
+	<entry name="allow_bold" mtime="1499081353" type="bool" value="false"/>
+</gconf>

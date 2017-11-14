@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="next_tab" mtime="1499062772" type="string">
+		<stringvalue>&lt;Super&gt;grave</stringvalue>
+	</entry>
+	<entry name="switch_tab5" mtime="1499062683" type="string">
+		<stringvalue>&lt;Primary&gt;5</stringvalue>
+	</entry>
+	<entry name="switch_tab4" mtime="1499062683" type="string">
+		<stringvalue>&lt;Primary&gt;4</stringvalue>
+	</entry>
+	<entry name="switch_tab3" mtime="1499062682" type="string">
+		<stringvalue>&lt;Primary&gt;3</stringvalue>
+	</entry>
+	<entry name="switch_tab2" mtime="1499062681" type="string">
+		<stringvalue>&lt;Primary&gt;2</stringvalue>
+	</entry>
+	<entry name="switch_tab1" mtime="1499062681" type="string">
+		<stringvalue>&lt;Primary&gt;1</stringvalue>
+	</entry>
+	<entry name="toggle_transparency" mtime="1499001990" type="string">
+		<stringvalue>&lt;Primary&gt;u</stringvalue>
+	</entry>
+	<entry name="close_tab" mtime="1502802832" type="string">
+		<stringvalue>&lt;Super&gt;w</stringvalue>
+	</entry>
+	<entry name="new_tab" mtime="1502802830" type="string">
+		<stringvalue>&lt;Super&gt;t</stringvalue>
+	</entry>
+	<entry name="quit" mtime="1499000509" type="string">
+		<stringvalue>&lt;Alt&gt;q</stringvalue>
+	</entry>
+	<entry name="toggle_fullscreen" mtime="1502802815" type="string">
+		<stringvalue>&lt;Super&gt;Return</stringvalue>
+	</entry>
+</gconf>
